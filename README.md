@@ -3,7 +3,7 @@
 **DSA 210 — Introduction to Data Science · Sabancı University · Spring 2026**
 **Author:** Yağmur Çaloğlu
 
-This project investigates whether six global crises spanning 2000–2024 (9/11, the Iraq War, the 2008 Global Financial Crisis, COVID-19, the Russia–Ukraine invasion, and the Israel–Hamas conflict) produced statistically detectable shifts in financial market returns and sectoral behavior — and whether those shifts are predictable. The analysis combines event-study hypothesis testing with classification and clustering models, and is framed as an operational test of the Efficient Market Hypothesis.
+This project investigates whether six global crises spanning 2000–2024 (9/11, the Iraq War, the 2008 Global Financial Crisis, COVID-19, the Russia–Ukraine invasion, and the Israel–Hamas conflict) produced statistically detectable shifts in financial market returns and sectoral behavior — and whether those shifts are predictable. The analysis combines event-study hypothesis testing with classification and clustering models, and is framed as an operational test of the Efficient Market Hypothesis. Warning: If GitHub fails to render the notebooks, please open the HTML versions included in the repository.
 
 ## Key Findings
 
